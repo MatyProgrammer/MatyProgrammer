@@ -18,13 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MatyProgrammer&show_icons=true" />
 </picture>
 
-<!-- Ícones com texto ao lado (tamanho proporcional) -->
+<!-- Ícones lado a lado -->
 <p>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <span style="font-size: 16px; vertical-align: middle; margin-right: 20px;">Python</span>
-
   <img align="center" alt="C Language" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <span style="font-size: 16px; vertical-align: middle;">C</span>
 </p>
 
 <!-- Botão do LinkedIn -->
