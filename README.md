@@ -1,6 +1,6 @@
 ## Olá eu sou o Maty Programmer
 
-- 🔭 Estou cursando Ciências da Computação
+- 🔭 Estou cursando Ciências da Computação e Computação Licenciatura
 - 🌱 Estou estudando python e C
 - 💬 contato: mateus.squeiroz@a.ucb.br
 
