@@ -18,16 +18,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MatyProgrammer&show_icons=true" />
 </picture>
 
-<!-- Ícones lado a lado -->
-<div>
+<!-- Ícones com texto ao lado (tamanho proporcional) -->
+<p>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <span style="font-size: 16px; vertical-align: middle; margin-right: 20px;">Python</span>
+
   <img align="center" alt="C Language" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
+  <span style="font-size: 16px; vertical-align: middle;">C</span>
+</p>
 
 <!-- Botão do LinkedIn -->
 <a href="https://www.linkedin.com/in/mateus-santos-0201b52b9" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-
 
