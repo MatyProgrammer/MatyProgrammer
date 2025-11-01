@@ -31,4 +31,6 @@
 <a href="https://www.linkedin.com/in/mateus-santos-0201b52b9" target="_blank">
   <img src="https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+<a href="mailto:mateus.queiroz052016@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+</a>
