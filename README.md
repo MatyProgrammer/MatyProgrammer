@@ -3,8 +3,6 @@
 - 🔭 Estou cursando Ciências da Computação e Computação Licenciatura
 - 🌱 Estou estudando programação e hardwares
 
-[![Anurag's GitHub stats (Light)](https://github-readme-stats.vercel.app/api?username=MatyProgrammer&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MatyProgrammer/github-readme-stats#gh-light-mode-only)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MatyProgrammer&show_icons=true&theme=dark"
