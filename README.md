@@ -27,10 +27,10 @@
 <div style="
   background:#0d1117;
   padding:20px;
-  border-radius:15px;
-  width:420px;
+  border-radius:12px;
+  width:450px;
   border:1px solid #30363d;
-  box-shadow:0 0 18px #00000070;
+  box-shadow:0 0 20px #00000060;
   font-family:Arial;
 ">
 
@@ -38,31 +38,50 @@
   Most Used Languages
 </h3>
 
-<!-- Barra geral -->
-<div style="background:#161b22; border-radius:10px; height:12px; margin-bottom:18px;">
+<!-- Barra -->
+<div style="
+  background:#161b22;
+  border-radius:10px;
+  height:12px;
+  margin-bottom:18px;
+">
   <div style="
-    background:linear-gradient(90deg, #f1e05a, #1f6feb);
-    width:70%;
+    background:#f1e05a;
+    width:92%;
     height:12px;
     border-radius:10px;
+    float:left;
+  "></div>
+
+  <div style="
+    background:#1f6feb;
+    width:8%;
+    height:12px;
+    border-radius:10px;
+    float:left;
   "></div>
 </div>
 
-<!-- Legendas em tabela (compatível com GitHub) -->
-<table style="width:100%; color:#c9d1d9; font-size:14px;">
+<!-- Legendas -->
+<table style="width:100%; font-size:14px;">
   <tr>
-    <td style="padding:6px 0;">
-      <div style="display:inline-block; width:12px; height:12px; background:#f1e05a; border-radius:50%;"></div>
-      Python 70%
+
+    <td style="color:#c9d1d9; padding:6px 0;">
+      <div style="
+        width:12px; height:12px; border-radius:50%;
+        background:#f1e05a; display:inline-block;
+      "></div>
+      JavaScript 92.41%
     </td>
-    <td style="padding:6px 0;">
-      <div style="display:inline-block; width:12px; height:12px; background:#1f6feb; border-radius:50%;"></div>
-      C++ 20%
+
+    <td style="color:#c9d1d9; padding:6px 0;">
+      <div style="
+        width:12px; height:12px; border-radius:50%;
+        background:#1f6feb; display:inline-block;
+      "></div>
+      Python 7.59%
     </td>
-    <td style="padding:6px 0;">
-      <div style="display:inline-block; width:12px; height:12px; background:#f78166; border-radius:50%;"></div>
-      C 10%
-    </td>
+
   </tr>
 </table>
 
