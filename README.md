@@ -30,65 +30,58 @@
   border-radius:15px;
   width:420px;
   border:1px solid #30363d;
-  box-shadow:0 0 18px #00000040;
+  box-shadow:0 0 18px #00000070;
+  font-family:Arial;
 ">
 
-<h3 style="color:#58a6ff; margin:0 0 18px;">
-  🎨 Most Used Languages
+<h3 style="color:#58a6ff; margin:0 0 15px;">
+  Most Used Languages
 </h3>
 
-<!-- Python -->
-<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
-  <span style="font-size:20px;">🐍</span>
-  <span style="color:#c9d1d9; font-weight:bold;">Python</span>
-  <span style="color:#c9d1d9; margin-left:auto;">70%</span>
-</div>
-
-<div style="background:#161b22; border-radius:10px; height:14px; margin-bottom:15px;">
+<!-- Barra geral -->
+<div style="background:#161b22; border-radius:10px; height:12px; margin-bottom:18px;">
   <div style="
-    background:#58a6ff;
+    background:linear-gradient(90deg, #f1e05a, #1f6feb);
     width:70%;
-    height:14px;
+    height:12px;
     border-radius:10px;
-    box-shadow:0 0 10px #58a6ff;
   "></div>
 </div>
 
-<!-- C++ -->
-<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
-  <span style="font-size:20px;">💜</span>
-  <span style="color:#c9d1d9; font-weight:bold;">C++</span>
-  <span style="color:#c9d1d9; margin-left:auto;">20%</span>
-</div>
+<!-- Legendas -->
+<div style="display:flex; gap:30px;">
 
-<div style="background:#161b22; border-radius:10px; height:14px; margin-bottom:15px;">
-  <div style="
-    background:#a371f7;
-    width:20%;
-    height:14px;
-    border-radius:10px;
-    box-shadow:0 0 10px #a371f7;
-  "></div>
-</div>
+  <!-- Python -->
+  <div style="display:flex; align-items:center; gap:6px;">
+    <div style="
+      width:12px; height:12px; border-radius:50%;
+      background:#f1e05a;
+    "></div>
+    <span style="color:#c9d1d9; font-size:14px;">Python 70%</span>
+  </div>
 
-<!-- C -->
-<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
-  <span style="font-size:20px;">🔥</span>
-  <span style="color:#c9d1d9; font-weight:bold;">C</span>
-  <span style="color:#c9d1d9; margin-left:auto;">10%</span>
-</div>
+  <!-- C++ -->
+  <div style="display:flex; align-items:center; gap:6px;">
+    <div style="
+      width:12px; height:12px; border-radius:50%;
+      background:#1f6feb;
+    "></div>
+    <span style="color:#c9d1d9; font-size:14px;">C++ 20%</span>
+  </div>
 
-<div style="background:#161b22; border-radius:10px; height:14px;">
-  <div style="
-    background:#f78166;
-    width:10%;
-    height:14px;
-    border-radius:10px;
-    box-shadow:0 0 10px #f78166;
-  "></div>
+  <!-- C -->
+  <div style="display:flex; align-items:center; gap:6px;">
+    <div style="
+      width:12px; height:12px; border-radius:50%;
+      background:#f78166;
+    "></div>
+    <span style="color:#c9d1d9; font-size:14px;">C 10%</span>
+  </div>
+
 </div>
 
 </div>
+
 
 ---
 
