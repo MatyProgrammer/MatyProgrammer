@@ -1,4 +1,4 @@
-## Olá, eu sou o Developer Mateus 👋
+## Olá, eu sou o Mateus 👋
 
 - 🎓 Estou cursando **Ciências da Computação** e **Computação Licenciatura**  
 - 💻 Estudando **programação e hardwares**  
@@ -6,27 +6,27 @@
 <!-- Estatísticas GitHub -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-git-masterrstacruz.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DeveloperMateusS&show_icons=true"
+    srcset="https://github-readme-stats-git-masterrstacruz.vercel.app/api?username=DeveloperMateusS&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="GitHub Stats - DeveloperMateusS" src="https://github-readme-stats.vercel.app/api?username=DeveloperMateusS&show_icons=true" />
+  <img alt="GitHub Stats - DeveloperMateusS" src="https://github-readme-stats-git-masterrstacruz.vercel.app/api?username=DeveloperMateusS&show_icons=true" />
 </picture>
 
 <!-- Linguagens mais usadas -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&theme=dark"
+    srcset="https://github-readme-stats-git-masterrstacruz.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact"
+    srcset="https://github-readme-stats-git-masterrstacruz.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="Linguagens mais usadas - DeveloperMateusS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact" />
+  <img alt="Linguagens mais usadas - DeveloperMateusS" src="https://github-readme-stats-git-masterrstacruz.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact" />
 </picture>
 
 ---
