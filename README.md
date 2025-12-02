@@ -48,40 +48,25 @@
   "></div>
 </div>
 
-<!-- Legendas -->
-<div style="display:flex; gap:30px;">
-
-  <!-- Python -->
-  <div style="display:flex; align-items:center; gap:6px;">
-    <div style="
-      width:12px; height:12px; border-radius:50%;
-      background:#f1e05a;
-    "></div>
-    <span style="color:#c9d1d9; font-size:14px;">Python 70%</span>
-  </div>
-
-  <!-- C++ -->
-  <div style="display:flex; align-items:center; gap:6px;">
-    <div style="
-      width:12px; height:12px; border-radius:50%;
-      background:#1f6feb;
-    "></div>
-    <span style="color:#c9d1d9; font-size:14px;">C++ 20%</span>
-  </div>
-
-  <!-- C -->
-  <div style="display:flex; align-items:center; gap:6px;">
-    <div style="
-      width:12px; height:12px; border-radius:50%;
-      background:#f78166;
-    "></div>
-    <span style="color:#c9d1d9; font-size:14px;">C 10%</span>
-  </div>
+<!-- Legendas em tabela (compatível com GitHub) -->
+<table style="width:100%; color:#c9d1d9; font-size:14px;">
+  <tr>
+    <td style="padding:6px 0;">
+      <div style="display:inline-block; width:12px; height:12px; background:#f1e05a; border-radius:50%;"></div>
+      Python 70%
+    </td>
+    <td style="padding:6px 0;">
+      <div style="display:inline-block; width:12px; height:12px; background:#1f6feb; border-radius:50%;"></div>
+      C++ 20%
+    </td>
+    <td style="padding:6px 0;">
+      <div style="display:inline-block; width:12px; height:12px; background:#f78166; border-radius:50%;"></div>
+      C 10%
+    </td>
+  </tr>
+</table>
 
 </div>
-
-</div>
-
 
 ---
 
