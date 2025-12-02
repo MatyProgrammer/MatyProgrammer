@@ -25,46 +25,29 @@
 ## 🔥 Linguagens mais usadas
 
 <div style="
-  background: #0a0f18;
-  padding: 25px;
-  border-radius: 12px;
-  width: 380px;
-  border: 1px solid #1f2a37;
-  box-shadow: 0 0 25px #00000055;
-  font-family: Arial, sans-serif;
+  background:#0d1117;
+  padding:20px;
+  border-radius:12px;
+  width:380px;
+  border:1px solid #30363d;
+  box-shadow:0 0 20px #00000055;
 ">
 
-<h3 style="
-  color:#58a6ff;
-  margin-top:0;
-  text-shadow:0 0 10px #58a6ff;
-  font-size:22px;
-">
+<h3 style="color:#58a6ff; margin:0 0 15px; text-shadow:0 0 8px #58a6ff;">
   🚀 Most Used Languages
 </h3>
-
-<style>
-@keyframes barGrow {
-  from { width: 0%; }
-  to { width: var(--final-width); }
-}
-.bar {
-  height: 12px;
-  border-radius: 8px;
-  animation: barGrow 2s ease-out forwards;
-}
-</style>
 
 <!-- Python -->
 <p style="color:#c9d1d9; margin:6px 0; font-weight:bold;">
 🐍 Python — 70%
 </p>
-<div style="background:#131821; border-radius:6px; height:12px; overflow:hidden;">
-  <div class="bar" style="
-    --final-width: 70%;
-    background: linear-gradient(90deg, #58a6ff, #7bc4ff);
-    width:0%;
-    box-shadow:0 0 12px #58a6ff;
+<div style="background:#161b22; border-radius:8px; height:12px;">
+  <div style="
+    background:linear-gradient(90deg, #58a6ff, #7bc4ff);
+    width:70%;
+    height:12px;
+    border-radius:8px;
+    box-shadow:0 0 10px #58a6ff;
   "></div>
 </div>
 <br>
@@ -73,12 +56,13 @@
 <p style="color:#c9d1d9; margin:6px 0; font-weight:bold;">
 💜 C++ — 20%
 </p>
-<div style="background:#131821; border-radius:6px; height:12px; overflow:hidden;">
-  <div class="bar" style="
-    --final-width: 20%;
-    background: linear-gradient(90deg, #a371f7, #c59aff);
-    width:0%;
-    box-shadow:0 0 12px #a371f7;
+<div style="background:#161b22; border-radius:8px; height:12px;">
+  <div style="
+    background:linear-gradient(90deg, #a371f7, #c59aff);
+    width:20%;
+    height:12px;
+    border-radius:8px;
+    box-shadow:0 0 10px #a371f7;
   "></div>
 </div>
 <br>
@@ -87,12 +71,13 @@
 <p style="color:#c9d1d9; margin:6px 0; font-weight:bold;">
 🔥 C — 10%
 </p>
-<div style="background:#131821; border-radius:6px; height:12px; overflow:hidden;">
-  <div class="bar" style="
-    --final-width: 10%;
-    background: linear-gradient(90deg, #f78166, #ff9f86);
-    width:0%;
-    box-shadow:0 0 12px #f78166;
+<div style="background:#161b22; border-radius:8px; height:12px;">
+  <div style="
+    background:linear-gradient(90deg, #f78166, #ff9f86);
+    width:10%;
+    height:12px;
+    border-radius:8px;
+    box-shadow:0 0 10px #f78166;
   "></div>
 </div>
 
