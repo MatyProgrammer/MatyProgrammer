@@ -7,7 +7,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Estatísticas GitHub -->
 <picture>
   <source
     srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark"
@@ -17,14 +16,14 @@
     srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="Estatísticas do GitHub - DeveloperMateusS" src="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark" />
+  <img alt="Estatísticas do GitHub - DeveloperMateusS"
+       src="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark" />
 </picture>
 
 ---
 
 ## 🔥 Linguagens mais usadas
 
-<!-- Linguagens mais usadas (somente Python, C, C++) -->
 <picture>
   <source
     srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&hide=shell,javascript,typescript,html,css,batchfile,powershell&langs_count=3&theme=dark"
@@ -34,7 +33,8 @@
     srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&hide=shell,javascript,typescript,html,css,batchfile,powershell&langs_count=3"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="Linguagens mais usadas - DeveloperMateusS" src="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&hide=shell,javascript,typescript,html,css,batchfile,powershell&langs_count=3&theme=dark" />
+  <img alt="Linguagens mais usadas - DeveloperMateusS"
+       src="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&hide=shell,javascript,typescript,html,css,batchfile,powershell&langs_count=3&theme=dark" />
 </picture>
 
 ---
