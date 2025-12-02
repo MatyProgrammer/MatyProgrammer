@@ -24,77 +24,33 @@
 
 ## 🔥 Linguagens mais usadas
 
-<div style="
-  background:#0d1117;
-  padding:20px;
-  border-radius:12px;
-  width:450px;
-  border:1px solid #30363d;
-  box-shadow:0 0 20px #00000060;
-  font-family:Arial;
-">
+<div style="background:#0d1117;padding:20px;border-radius:12px;width:450px;border:1px solid #30363d;box-shadow:0 0 20px #00000060;font-family:Arial;">
 
-<h3 style="color:#58a6ff; margin:0 0 15px;">
-  Most Used Languages
-</h3>
+<h3 style="color:#58a6ff;margin:0 0 15px;">Most Used Languages</h3>
 
-<!-- Barra -->
-<div style="
-  background:#161b22;
-  border-radius:10px;
-  height:12px;
-  margin-bottom:18px;
-  overflow:hidden;
-">
-  <div style="
-    background:#f1e05a;
-    width:70%;
-    height:12px;
-    float:left;
-  "></div>
-
-  <div style="
-    background:#1f6feb;
-    width:30%;
-    height:12px;
-    float:left;
-  "></div>
+<div style="background:#161b22;border-radius:10px;height:12px;margin-bottom:18px;overflow:hidden;">
+  <div style="background:#f1e05a;width:70%;height:12px;float:left;"></div>
+  <div style="background:#1f6feb;width:30%;height:12px;float:left;"></div>
 </div>
 
-<!-- Legendas -->
-<table style="width:100%; font-size:14px;">
+<table style="width:100%;font-size:14px;">
   <tr>
-
-    <td style="color:#c9d1d9; padding:6px 0;">
-      <div style="
-        width:12px; height:12px; border-radius:50%;
-        background:#f1e05a; display:inline-block;
-      "></div>
+    <td style="color:#c9d1d9;padding:6px 0;">
+      <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f1e05a;"></span>
       Python 70%
     </td>
-
-    <td style="color:#c9d1d9; padding:6px 0;">
-      <div style="
-        width:12px; height:12px; border-radius:50%;
-        background:#1f6feb; display:inline-block;
-      "></div>
+    <td style="color:#c9d1d9;padding:6px 0;">
+      <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#1f6feb;"></span>
       C++ 20%
     </td>
-
-    <td style="color:#c9d1d9; padding:6px 0;">
-      <div style="
-        width:12px; height:12px; border-radius:50%;
-        background:#f78166; display:inline-block;
-      "></div>
+    <td style="color:#c9d1d9;padding:6px 0;">
+      <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f78166;"></span>
       C 10%
     </td>
-
   </tr>
 </table>
 
 </div>
-
----
 
 ## 🖥️ Linguagens que utilizo
 
