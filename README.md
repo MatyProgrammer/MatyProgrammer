@@ -44,20 +44,19 @@
   border-radius:10px;
   height:12px;
   margin-bottom:18px;
+  overflow:hidden;
 ">
   <div style="
     background:#f1e05a;
-    width:92%;
+    width:70%;
     height:12px;
-    border-radius:10px;
     float:left;
   "></div>
 
   <div style="
     background:#1f6feb;
-    width:8%;
+    width:30%;
     height:12px;
-    border-radius:10px;
     float:left;
   "></div>
 </div>
@@ -71,7 +70,7 @@
         width:12px; height:12px; border-radius:50%;
         background:#f1e05a; display:inline-block;
       "></div>
-      JavaScript 92.41%
+      Python 70%
     </td>
 
     <td style="color:#c9d1d9; padding:6px 0;">
@@ -79,7 +78,15 @@
         width:12px; height:12px; border-radius:50%;
         background:#1f6feb; display:inline-block;
       "></div>
-      Python 7.59%
+      C++ 20%
+    </td>
+
+    <td style="color:#c9d1d9; padding:6px 0;">
+      <div style="
+        width:12px; height:12px; border-radius:50%;
+        background:#f78166; display:inline-block;
+      "></div>
+      C 10%
     </td>
 
   </tr>
