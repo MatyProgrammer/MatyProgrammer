@@ -27,56 +27,63 @@
 <div style="
   background:#0d1117;
   padding:20px;
-  border-radius:12px;
-  width:380px;
+  border-radius:15px;
+  width:420px;
   border:1px solid #30363d;
-  box-shadow:0 0 20px #00000055;
+  box-shadow:0 0 18px #00000040;
 ">
 
-<h3 style="color:#58a6ff; margin:0 0 15px; text-shadow:0 0 8px #58a6ff;">
-  🚀 Most Used Languages
+<h3 style="color:#58a6ff; margin:0 0 18px;">
+  🎨 Most Used Languages
 </h3>
 
 <!-- Python -->
-<p style="color:#c9d1d9; margin:6px 0; font-weight:bold;">
-🐍 Python — 70%
-</p>
-<div style="background:#161b22; border-radius:8px; height:12px;">
+<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+  <span style="font-size:20px;">🐍</span>
+  <span style="color:#c9d1d9; font-weight:bold;">Python</span>
+  <span style="color:#c9d1d9; margin-left:auto;">70%</span>
+</div>
+
+<div style="background:#161b22; border-radius:10px; height:14px; margin-bottom:15px;">
   <div style="
-    background:linear-gradient(90deg, #58a6ff, #7bc4ff);
+    background:#58a6ff;
     width:70%;
-    height:12px;
-    border-radius:8px;
+    height:14px;
+    border-radius:10px;
     box-shadow:0 0 10px #58a6ff;
   "></div>
 </div>
-<br>
 
 <!-- C++ -->
-<p style="color:#c9d1d9; margin:6px 0; font-weight:bold;">
-💜 C++ — 20%
-</p>
-<div style="background:#161b22; border-radius:8px; height:12px;">
+<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+  <span style="font-size:20px;">💜</span>
+  <span style="color:#c9d1d9; font-weight:bold;">C++</span>
+  <span style="color:#c9d1d9; margin-left:auto;">20%</span>
+</div>
+
+<div style="background:#161b22; border-radius:10px; height:14px; margin-bottom:15px;">
   <div style="
-    background:linear-gradient(90deg, #a371f7, #c59aff);
+    background:#a371f7;
     width:20%;
-    height:12px;
-    border-radius:8px;
+    height:14px;
+    border-radius:10px;
     box-shadow:0 0 10px #a371f7;
   "></div>
 </div>
-<br>
 
 <!-- C -->
-<p style="color:#c9d1d9; margin:6px 0; font-weight:bold;">
-🔥 C — 10%
-</p>
-<div style="background:#161b22; border-radius:8px; height:12px;">
+<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+  <span style="font-size:20px;">🔥</span>
+  <span style="color:#c9d1d9; font-weight:bold;">C</span>
+  <span style="color:#c9d1d9; margin-left:auto;">10%</span>
+</div>
+
+<div style="background:#161b22; border-radius:10px; height:14px;">
   <div style="
-    background:linear-gradient(90deg, #f78166, #ff9f86);
+    background:#f78166;
     width:10%;
-    height:12px;
-    border-radius:8px;
+    height:14px;
+    border-radius:10px;
     box-shadow:0 0 10px #f78166;
   "></div>
 </div>
