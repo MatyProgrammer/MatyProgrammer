@@ -7,18 +7,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="Estatísticas do GitHub - DeveloperMateusS"
-       src="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark" />
-</picture>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark)
 
 ---
 
