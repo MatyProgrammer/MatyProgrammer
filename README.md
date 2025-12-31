@@ -7,18 +7,25 @@
 
 ## 📊 Estatísticas do GitHub
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="Estatísticas do GitHub - DeveloperMateusS"
-       src="https://github-readme-stats-psi-orcin-yq9uy126yt.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark" />
-</picture>
+<div align="center">
+  <a href="https://github.com/DeveloperMateusS">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeveloperMateusS&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 🧠 Tecnologias que estudo
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Python" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="C++" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
 
 ---
 
