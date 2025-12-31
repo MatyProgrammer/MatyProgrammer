@@ -7,12 +7,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DeveloperMateusS&show_icons=true&theme=dark&cache_seconds=86400)
 
 ---
 
 ## 🔥 Linguagens mais usadas
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
